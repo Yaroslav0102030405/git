@@ -8,6 +8,10 @@ Git - это распределённая система контроля вер
 # Як правило, необхідно вказати ім'я та email:
 git config --global user.name = "..."
 git config --global user.email = "..."
+
+# Перевірити
+git config user.name
+git config user.email
 ```
 
 ## Основные концепции Git
